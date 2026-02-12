@@ -1,0 +1,20 @@
+{
+  "name": "claude-mem",
+  "version": "7.5.0",
+  "description": "Claude-Mem plugin for OpenCode - Persistent memory for AI coding sessions",
+  "main": "claude-mem.js",
+  "type": "module",
+  "keywords": [
+    "opencode",
+    "claude",
+    "memory",
+    "ai",
+    "coding"
+  ],
+  "author": "Alex Newman (@thedotmack)",
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/thedotmack/claude-mem",
+  "peerDependencies": {
+    "@opencode-ai/plugin": ">=1.0.0"
+  }
+}
